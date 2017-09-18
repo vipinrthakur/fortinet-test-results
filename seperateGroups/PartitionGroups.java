@@ -5,8 +5,9 @@ import java.util.List;
 public class PartitionGroups {
 	/**
 	 * method to partition integers into k groups and check if all groups has
-	 * same sum Time Complexity: O(nk) -> n is size of list, k is number of
-	 * subsets Space Complexity: O(k) -> k (k<=n)
+	 * same sum 
+	 * Time Complexity: O(nk) -> n is size of list, k is number of subsets
+	 * Space Complexity: O(k) -> k (k<=n)
 	 * 
 	 * @author vthakur
 	 * @param list
