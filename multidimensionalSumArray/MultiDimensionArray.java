@@ -6,7 +6,7 @@ import java.util.Random;
  * Multidimensional array sum
  * 
  * Time Complexity: O(n^n) CRAZY!! 
- * Space Complexity: O(n) space -> where m is the number of dimensions
+ * Space Complexity: O(n) space -> where n is the number of dimensions
  * 
  * @author vthakur
  * 
